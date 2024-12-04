@@ -1,9 +1,2 @@
-"# python" 
-"# python" 
-"# python" 
-"# python" 
-"# insuranceproject" 
-"# insuranceproject" 
-"# insuranceproject" 
-"# insuranceproject" 
-"# insuranceproject" 
+project based on suggesting insurance company how they can retain their customers 
+Visualization of birds strikes among Airlines using python 
